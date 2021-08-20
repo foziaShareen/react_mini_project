@@ -8,5 +8,6 @@ function OurReact(){
   setInterval(function(){
    ReactDOM.render(React.createElement(OurReact),document.querySelector("#app")) 
   },1000)
-  //in html 
-  // <div id="app"></div>
+  //in html<div id="app"></div>
+
+
